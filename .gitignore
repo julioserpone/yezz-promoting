@@ -1,0 +1,12 @@
+/vendor
+/node_modules
+/public/yezzclub-bower
+/public/storage
+/public/img/profile/
+Homestead.yaml
+Homestead.json
+.env
+
+\.phpintel/
+
+\.vscode/

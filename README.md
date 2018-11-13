@@ -1,4 +1,4 @@
-# Akkar Global Services
+# Yezz Promoting
 
 This document provides you with an insight into the most important things to develop for the Yezz Club Administrative Project
 
@@ -25,7 +25,7 @@ This document provides you with an insight into the most important things to dev
    5. [Variable Namings](#variable-namings)
 
 ## Requirements
-1. PHP 5.5+
+1. PHP 5.6+
 2. MySQL 5.5+
 3. Apache2 or Nginx webserver
 4. [Composer](https://getcomposer.org/)
@@ -38,7 +38,7 @@ This document provides you with an insight into the most important things to dev
 
 Clone gitlab repository
 ```
-git clone https://gitlab.com/development.yezzcorp/yezzclub-admin.git
+git clone https://github.com/julioserpone/yezz-promoting.git
 ```
 
 Enter project directory and run dependency install
